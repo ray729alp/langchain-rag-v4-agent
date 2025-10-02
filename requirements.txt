@@ -1,0 +1,11 @@
+flask
+langchain
+langchain-community
+langchain-chroma
+sentence-transformers
+google-cloud-dialogflow-cx
+google-cloud-aiplatform
+google-auth
+python-dotenv
+flask-limiter
+flask-cors

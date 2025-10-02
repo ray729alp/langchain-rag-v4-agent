@@ -1,0 +1,12 @@
+/.env
+/app.log
+/compare_embeddings.py
+/create_database.py
+/credentials
+/docker-compose.yaml
+/Dockerfile
+/faq_database.py
+/system_archi.md
+/tempCodeRunnerFile.py
+/test_auth.py
+/__pycache__
