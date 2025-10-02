@@ -1,6 +1,6 @@
 # Agency Chatbot - Vertex AI Integration
 
-A comprehensive chatbot solution for an government agency (Malaysian Qualifications Agency) built with Flask and Google Cloud's Vertex AI (Dialogflow CX). This intelligent chatbot handles inquiries about accreditation, qualifications, APEL, and other MQA services with advanced AI capabilities.
+A comprehensive chatbot solution for an government agency (Malaysian Qualifications Agency) built with Flask and Google Cloud's Vertex AI (Dialogflow CX). This intelligent chatbot handles inquiries about informations regrading/related to the agency and their services with advanced AI capabilities.
 
 ## 📋 Table of Contents
 
