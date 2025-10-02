@@ -754,7 +754,6 @@ def set_security_headers(response):
 ### Emergency Contacts
 - **GCP Support**: https://cloud.google.com/support
 - **Dialogflow Documentation**: https://cloud.google.com/dialogflow/docs
-- **Project Maintainer**: [Your Contact Information]
 
 ### Documentation Resources
 - [Flask Documentation](https://flask.palletsprojects.com/)
